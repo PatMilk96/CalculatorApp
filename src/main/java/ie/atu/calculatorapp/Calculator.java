@@ -20,4 +20,5 @@ public class Calculator {
     public void setResult(int result) {
         this.result = result;
     }
+
 }
